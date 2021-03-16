@@ -12,3 +12,14 @@ In its current form the GUI is rather simple ... I may wish to expand on that in
 The textbox can be thought of as a search box where you enter the name of the technology you wish to explore.
 
 Clicking on various displayed technologies will make the application look those up ... so you do not need to type them out separately.
+
+# Changelog
+
+V0.1: Initial Release
+V0.2: Adds Images for all techs as well as support for: Chinese, French, German, Polish, Portuguese, Russian and Spanish
+
+# Attributions
+
+- OpenGL ( www.opengl.org )
+- GLEW( glew.sourceforge.net )
+- GLFW( www.glfw.org )
