@@ -22,6 +22,8 @@ V0.1: Initial Release
 
 V0.2: Adds Images for all techs as well as support for: Chinese, French, German, Polish, Portuguese, Russian and Spanish
 
+V0.3: Multi-threaded file loading
+
 
 # Attributions
 
