@@ -24,6 +24,8 @@ V0.2: Adds Images for all techs as well as support for: Chinese, French, German,
 
 V0.3: Multi-threaded file loading
 
+V0.4: Added modifier descriptions for viewed tech
+
 
 # Attributions
 

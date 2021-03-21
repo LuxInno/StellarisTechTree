@@ -240,6 +240,9 @@ configs = {
 
 		# Shows all syntax errors - can only disable the error display. The relevant entry will NOT be parsed, because it is missing a required part of it syntax
 		syntax = yes
+		
+		# Shows all duplicate entries for each language
+		duplicate_entries = yes
 	}
 
 	###############################
