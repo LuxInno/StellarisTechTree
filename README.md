@@ -26,6 +26,7 @@ V0.3: Multi-threaded file loading
 
 V0.4: Added modifier descriptions for viewed tech
 
+V0.5: Added differently named techs for hive mind and machine intelligence
 
 # Attributions
 
